@@ -68,7 +68,7 @@ int main()
     cin >> harga10;
     cout << "Jumlah Beli: ";
     cin >> jumlah10;
-    total =(harga1*jumlah1)+(harga2*jumlah2)+(harga3*jumlah3)+(harga4*jumlah4)+(harga5*jumlah5)+(harga6*jumlah6)+(harga7*jumlah7)+(harga8*jumlah8)+(harga9*jumlah9)+(harga10 * jumlah10);
+    total =(harga1 * jumlah1) + (harga2 * jumlah2) + (harga3 * jumlah3) + (harga4 * jumlah4) + (harga5 * jumlah5) + (harga6 * jumlah6) + (harga7 * jumlah7) + ( harga8 * jumlah8) + (harga9 * jumlah9) + (harga10 * jumlah10);
     cout << "Total: " << total << endl;
    return 0;
 }
